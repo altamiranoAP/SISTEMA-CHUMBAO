@@ -1,0 +1,32 @@
+header {
+	background:#2A60BD;
+	color:#fff;
+}
+
+.main {
+	background:#f2f2f2;
+}
+
+.color1 {
+	background: #34495e;
+	color:#fff;
+}
+
+aside {
+	background:#c0392b;
+	color:#fff;
+}
+
+footer {
+	background:#4BB04B;
+	color:#fff;
+}
+
+.thumb img {
+	
+	width:100%;
+	
+}
+/*.form-group .form-control  {
+	font-size: large;
+}*/
